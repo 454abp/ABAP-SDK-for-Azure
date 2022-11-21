@@ -4,8 +4,6 @@
   <asx:values>
    <PROGDIR>
     <NAME>ZREST_CALL_DEMO</NAME>
-    <STATE>A</STATE>
-    <VARCL>X</VARCL>
     <SUBC>1</SUBC>
     <APPL>S</APPL>
     <RLOAD>E</RLOAD>
